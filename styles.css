@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #2f4233;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Luckiest Guy', cursive;
+  text-shadow: 5px 0 #78456e;
+  font-size: 7rem;
+  color: #e83abf;
+}
+
+p {
+  font-size: 2rem;
+  color: #e83abf;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
